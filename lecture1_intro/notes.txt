@@ -1,0 +1,35 @@
+📍 why learn data structures
+- using correct data structure is necessary for building an efficient software program
+- it improves logic building
+- it's asked in coding interviews
+- they provide better understanding of algorithms
+
+📍 friends on facebook example
+- we don't have any hierarchy here
+- we have people here, who have relationships (friend) with other people
+- so, we will use graph data structure
+
+📍 family members and relationship example
+- here we have hierarchy, we will maintain that
+- here we have relationships, we will maintain that
+- we will use tree data structure to store such data
+- because, in a tree data structure, we have hierarchy, we have relationships
+
+📍 selling tickets online example
+- we have limited tickets
+- 1000s of people want to buy that ticket
+- we will sell tickets on first come first served basis
+- so we will keep users in a queue data structure
+
+📍 to do list example
+- all items have equal importance
+- any item can be taked and done first
+- so we will keep todo items in an array
+
+📍 what is data structure?
+- information technology is all about data
+- we store data
+- we perform operations on data
+- we transfer data
+- e.g. ordering a phone
+- data should be stored in a way so that it is easier to manage and use
